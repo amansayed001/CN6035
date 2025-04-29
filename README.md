@@ -39,7 +39,7 @@ Blockchain Layer (Solidity Smart Contract)
 - **Frontend:** Next.js, React, TypeScript, ethers.js
 - **Backend:** Node.js, Express, MongoDB
 - **Blockchain:** Solidity, Hardhat, Ganache, MetaMask
-- **Dev Tools:** VSCode, Postman, Hardhat, Vercel
+- **Dev Tools:** VSCode, Hardhat
 
 ---
 
