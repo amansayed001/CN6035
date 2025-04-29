@@ -85,9 +85,6 @@ Blockchain Layer (Solidity Smart Contract)
 
 ---
 
-## 📸 Screenshots (optional)
-_Add screenshots of your frontend UI here if you like._
-
 ---
 
 ## 📜 License
